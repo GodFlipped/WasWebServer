@@ -1,0 +1,16 @@
+{
+  "ExtendedData": {
+    "inputs": [
+      "net.tcp://127.0.0.1:20001/WasService/Sorter"
+    ],
+    "collectionTypes": [
+      "System.Array",
+      "System.Collections.Generic.Dictionary`2"
+    ],
+    "namespaceMappings": [
+      "*, ServiceReference1"
+    ],
+    "targetFramework": "net5.0",
+    "typeReuseMode": "All"
+  }
+}
